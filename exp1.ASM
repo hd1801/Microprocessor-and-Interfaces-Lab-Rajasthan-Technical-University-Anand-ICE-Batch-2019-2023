@@ -1,0 +1,3 @@
+MVI A,0000
+STA 15
+HLT

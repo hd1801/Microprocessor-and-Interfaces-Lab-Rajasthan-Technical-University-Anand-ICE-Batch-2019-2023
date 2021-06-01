@@ -1,6 +1,3 @@
-;multiplication of 8 bit no
-;multiplication is done using addition
-;
 LHLD 0000 
 XCHG 
 MOV C,D
